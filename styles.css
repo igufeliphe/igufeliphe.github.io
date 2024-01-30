@@ -341,10 +341,10 @@ li {
 }
 
 .container main .posts .post img {
-    width: 128px;
+    width: 178px;
     height: 128px;
 
-    border-radius: 50%;
+    border-radius: 0%;
 }
 
 .container main .posts .post .content {
